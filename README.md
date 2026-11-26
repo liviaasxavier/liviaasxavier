@@ -1,10 +1,10 @@
 
-# Hi, I'm Lívia! 👋
+# Hi, I'm Lívia! 
 
-🎓 Information Systems student at UNIRIO  
-💻 Aspiring Software Engineer  
-🌎 Based in Rio de Janeiro, Brazil  
-🇺🇸 Fluent in English
+Information Systems student at UNIRIO  
+Aspiring Software Engineer  
+Based in Rio de Janeiro, Brazil  
+Fluent in English
 
 ### About Me
 
@@ -25,7 +25,7 @@ Currently focused on strengthening my programming fundamentals and building proj
 
 ### Featured Projects
 
-### 🌷 [journal](https://github.com/liviaasxavier/journal)
+### [journal](https://github.com/liviaasxavier/journal)
 A scrapbook-style personal journal: to-do lists, habit tracker with charts, color-coded calendar,
 mood diary, college dashboard, recipes and draggable stickers — synced across devices.
 **Stack:** React · Vite · Supabase (PostgreSQL, Auth, Storage, RLS)
