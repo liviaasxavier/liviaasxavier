@@ -25,7 +25,11 @@ Currently focused on strengthening my programming fundamentals and building proj
 
 ### Featured Projects
 
-🌷 My Journal - A digital journal and planner.
+### 🌷 [journal](https://github.com/liviaasxavier/journal)
+A scrapbook-style personal journal: to-do lists, habit tracker with charts, color-coded calendar,
+mood diary, college dashboard, recipes and draggable stickers — synced across devices.
+**Stack:** React · Vite · Supabase (PostgreSQL, Auth, Storage, RLS)
+· [repo](https://github.com/liviaasxavier/journal)
 
 ### Connect With Me
 
